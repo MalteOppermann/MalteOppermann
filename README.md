@@ -32,21 +32,6 @@ Ob Bug, Architekturfrage oder einfach nur ein:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📊 Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalteOppermann&show_icons=true&theme=tokyonight)
-
-
-  ![Top Languages](https://github-readme-activity-graph.vercel.app/graph?username=MalteOppermann&theme=tokyo-night)
-
-
-  ![Animation](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=500&lines=Swift+Developer;React+Learner;TA+Support;Always+debugging)
-
-</div>
-
-
 ## 🚀 Aktuell
 
 Im Moment bin ich vor allem viel in **HTML, CSS und JavaScript** unterwegs und arbeite mich immer tiefer in **React** und **TypeScript** ein.
