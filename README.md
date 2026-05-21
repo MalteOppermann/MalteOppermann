@@ -1,45 +1,88 @@
-# 👋 Hey, ich bin Malte
+<!-- Typing animation header -->
+<div align="center">
 
-## 💬 About Me
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║      building things that live on screens                 ║
+║      mobile · web · whatever's next                       ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-Ich arbeite viel mit moderner App- und Webentwicklung und begleite als TA täglich Teilnehmer:innen und Projekte durch kleine und große Herausforderungen.
+</div>
 
-Ob Bug, Architekturfrage oder einfach nur ein:
-**„Warum funktioniert das jetzt schon wieder nicht?“** 😄
+---
 
-… ich bin meistens nur einen Request entfernt.
+### `whoami`
 
-💡 Probleme sind nicht da, um zu nerven — sondern um sie zu fixen.
+```typescript
+interface Developer {
+  name: string        = "MalteOppermann";
+  role: string        = "TA & Full-Stack Developer";
+  focus: string[]     = ["Web-Development", "Problem-Solving", "Mentoring"];
+  coffee: boolean     = true;
+  sleeps: boolean     = false;
+  motivation: string  = "Probleme sind nicht da, um zu nerven — sondern um sie zu fixen.";
+}
+```
 
-## 🛠 Tech Stack
+---
 
-![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-black?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### `tech.stack`
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Mobile**
 
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%231575F9.svg?style=flat-square&logo=swift&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Web**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-## 🚀 Aktuell
+**Tooling & Backend**
 
-Im Moment bin ich vor allem viel in **HTML, CSS und JavaScript** unterwegs und arbeite mich immer tiefer in **React** und **TypeScript** ein.
+![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=flat-square&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 
+---
 
-## 😄 Mein Motto
+### `git log --oneline`
 
-Euer freundlicher TA — nur einen Request entfernt.
+> _always coding. sometimes sleeping._
 
-Wenn Fragen sind: einfach melden.  
-Wenn etwas nicht läuft: erst recht melden.  
+```
+[main] ◉ shipping features across platforms
+       │
+       ├── 📱  iOS with Swift & SwiftUI
+       ├── 🌐  web with React + TypeScript
+       ├── 🛠️   supporting students as TA
+       └── 🐛  debugging the things that break
+```
+
+---
+
+### `current.focus`
+
+```javascript
+const currentStack = {
+  primary: ["React", "Modern JavaScript"],
+  secondary: ["TypeScript"],
+  learning: ["Next.js", "Advanced Frontend Patterns"],
+};
+```
+
+---
+
+<div align="center">
+
+_`// TODO: sleep more, debug less`_
+
+</div>
