@@ -33,6 +33,8 @@ interface Developer {
 
 **Mobile**
 
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%234285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%231575F9.svg?style=flat-square&logo=swift&logoColor=white)
 
@@ -46,6 +48,7 @@ interface Developer {
 
 **Tooling & Backend**
 
+![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=flat-square&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=flat-square&logo=xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
@@ -62,6 +65,7 @@ interface Developer {
 [main] ◉ shipping features across platforms
        │
        ├── 📱  iOS with Swift & SwiftUI
+       ├── 🤖  Android with Jetpack Compose
        ├── 🌐  web with React + TypeScript
        ├── 🛠️   supporting students as TA
        └── 🐛  debugging the things that break
